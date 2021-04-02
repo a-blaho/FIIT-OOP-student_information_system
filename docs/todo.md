@@ -1,0 +1,9 @@
+- [x] Pridávanie známok
+- [x] Mazanie a úprava známok
+- [x] Pridávanie kategórií v predmetoch
+- [x] Mazanie a úprava kategórií
+- [x] Možnosť pozrieť si známky
+- [x] Notifikácia študentov po pridaní novej známky
+- [x] Profil pre každého používateľa
+- [ ] Možnosť pozrieť si všetkých používateľov a ich profily
+- [x] Ukladanie informácií do súborov
